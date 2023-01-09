@@ -1,0 +1,121 @@
+@media (max-width: 1024px){
+    .header__nav2{
+        display: none !important;
+        opacity: 0;
+    }
+}
+@media (max-width: 100%){
+    .header__nav1{
+        display: none !important;
+        opacity: 0;
+    }
+}
+@media (max-width: 1024px){
+ .content__image{
+     width: 100%;
+ }   
+ .section__text{
+     margin-bottom: 0;
+ }
+}
+@media (max-width: 768px){
+    .content__image{
+        transform: none !important;
+    }
+}
+@media (max-width: 992px){
+    .section1__div{
+        flex-wrap: wrap;
+        row-gap: 15px;
+        align-items: center;
+        display: flex !important;
+        justify-content: center !important;
+    }
+
+}
+@media (max-width: 850px){
+    .section2__line{
+        display: flex !important;
+        opacity: 0.2 !important;
+    }
+}
+
+@media (max-width: 1320px){
+    .cards__image{
+        transform: none !important;
+    }
+    .cards__image1{
+        transform: none !important;
+    }
+    .cards__image2{
+        transform: none !important;
+    }
+    .cards__image3{
+        transform: none !important;
+    }
+    .cards__image4{
+        transform: none !important;
+    }
+    .cards__image5{
+        transform: none !important;
+    }
+    .cards__image6{
+        transform: none !important;
+    }
+    .cards__image7{
+        transform: none !important;
+    } 
+}
+@media (max-width: 667px){
+    .section1__div1{
+        flex-wrap: wrap;
+        row-gap: 10px;
+    }
+}
+@media (max-width: 1440px){
+    .section__container{
+        height: 100% !important;
+    }
+}
+@media (max-width: 480px){
+    .section1__text{
+        text-align: center;
+    }
+}
+@media (max-width: 360px){
+    .section__tittle{
+        font-size: 27px !important
+    }
+}
+@media (max-width: 1290px){
+    .section4__container{
+        height: 500px !important;
+    }
+}
+@media (max-width: 750px){
+    .section4__container{
+        height: 890px !important;
+    }
+}
+@media (max-width: 750px){
+    .footer__column1{
+       display: flex;
+       align-items: center;
+       justify-content: center;
+    }
+    .footer__div4{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .footer__text{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .footer__div5{
+        display: flex;
+        align-items: center;
+        justify-content: center !important;
+    }
+}
